@@ -15,11 +15,13 @@ RxSwift는 Reactive eXtensions 표준의 Swift 전용 구현이다. 다른 Rx �
 
 > 비동기 : 데이터 요청과 결과가 동시에 일어나지 않는다. 그래서 응답을 계속 기다리지 않고 다른 활동을 수행 할 수 있다.
 
-## RxSwift의 3가지 구성요소
+## 왜 RxSwift를 사용할까?
 
-3가지 요소에는 `Observable`, `Operators`, `Schedulers`가 있다.
+1. MVVM패턴과 관련 :  
+   MVVM패턴은 데이터 바인딩을 제공하는 플랫폼에서 만들어진 이벤트 중심 프로그램을 위한 아키텍쳐인데 RxSwift가 연관성이 높다.
 
-1. Observables
+2. 순수하게 비동기적인 프로그래밍을 하면? :
+   애플이 제공하는 Delegate패턴을 그대로 사용해 개발자가 비동기 실행 코드를 이해하기 힘들다. 하지만 RxSwift를 사용하면 코드 이해가 쉬워진다.
 
 ## 참고링크
 
