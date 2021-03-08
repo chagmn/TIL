@@ -2,3 +2,4 @@
 2. [[Swift] 탈출 클로저](https://velog.io/@chagmn/Swift-탈출-클로저)
 3. [[Swift] map & flatmap](https://velog.io/@chagmn/Swift-map-flatmap)
 4. [[Swift] Subscript](https://velog.io/@chagmn/Swift-Subscript)
+5. [[Swift] 상속](https://velog.io/@chagmn/Swift-상속)
