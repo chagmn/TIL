@@ -3,3 +3,4 @@
 3. [[Swift] map & flatmap](https://velog.io/@chagmn/Swift-map-flatmap)
 4. [[Swift] Subscript](https://velog.io/@chagmn/Swift-Subscript)
 5. [[Swift] 상속](https://velog.io/@chagmn/Swift-상속)
+6. [[Swift] 타입캐스팅](https://velog.io/@chagmn/Swift-타입캐스팅)
