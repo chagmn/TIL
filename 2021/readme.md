@@ -7,3 +7,4 @@
 7. [[Swift] 프로토콜](https://velog.io/@chagmn/Swift프로토콜)
 8. [[iOS] ViewController 생명주기](https://velog.io/@chagmn/iOS-ViewController-생명주기)
 9. [[Swift] ARC_(1)](https://velog.io/@chagmn/Swift-ARC1)
+10. [[Swift] ARC_강한참조](https://velog.io/@chagmn/SwiftARC강한참조)
