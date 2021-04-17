@@ -12,3 +12,4 @@
 12. [[Swift] ARC_미소유참조](https://velog.io/@chagmn/Swift-ARC미소유참조)
 13. [[iOS] 둥근 모서리](https://velog.io/@chagmn/iOS-둥근-모서리)
 14. [[iOS] PickerView](https://velog.io/@chagmn/iOS-PickerView)
+15. [[iOS] UITableView의 프로토콜](https://velog.io/@chagmn/iOS-UITableView의-프로토콜)
